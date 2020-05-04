@@ -1,0 +1,16 @@
+.plans {
+  padding: 24px 0;
+}
+
+.plans__title {
+  display: block;
+  color: white;
+  text-align: center;
+}
+
+.plans__block {
+  display: flex;
+  padding: 24px 0;
+  flex-wrap: wrap;
+  justify-content: center;
+}
